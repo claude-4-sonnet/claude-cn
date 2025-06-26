@@ -1,6 +1,6 @@
 # 【Claude 最新指南】国内如何使用Claude(克劳德)？(支持Claude 3.7 Sonnet，无需翻墙)
 
-> **更新日期：2025/06/25**     
+> **更新日期：2025/06/27**     
 
 国内可直接使用 [**Claude 中文版**](https://xsimplechat.com) 教程，**无需翻墙**，**支持 Claude 3.7 Sonnet、Thinking 及中文版功能**   
 
